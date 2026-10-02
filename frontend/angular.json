@@ -323,7 +323,7 @@
             "serverTarget": "mempool:server"
           },
           "configurations": {
-            "production": {
+            "production": {jbil
               "browserTarget": "mempool:build:production",
               "serverTarget": "mempool:server:production",
               "optimization": false,
